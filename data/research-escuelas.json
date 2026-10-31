@@ -1,0 +1,140 @@
+{
+  "as_of": "2026-10-31",
+  "timezone": "America/Santiago",
+  "scope": "Escuelas y comunidad de narración oral para adultos aficionados en Santiago; fuentes primarias, con alternativas online y antecedentes históricos separados.",
+  "results": [
+    {
+      "id": "casa-contada",
+      "name": "Casa Contada, Escuela de Literatura y Oralidad",
+      "type": "escuela_online",
+      "status": "Escuela activa; no se confirmó una nueva cohorte presencial de narración oral abierta al 31 de octubre.",
+      "format": "Online por Zoom. La web explica que la escuela se trasladó desde una casona de Providencia al formato virtual.",
+      "offer": "La tienda conserva un curso online de ocho sesiones, Contar cuentos para niños y niñas, abierto a adultos interesados; la página no publica calendario.",
+      "dates": null,
+      "price": {"displayed_clp": 70000, "qualification": "El producto se titula pago en 2 cuotas. No asumir que $70.000 sea el arancel total ni que corresponda a una convocatoria 2026."},
+      "contact": {"email": "contacto@casacontada.com", "website": "https://casacontada.com/"},
+      "evidence": [
+        {"url": "https://casacontada.com/", "supports": "Modalidad virtual y contacto actual; cursos vigentes en otras materias."},
+        {"url": "https://casacontada.com/producto/contarcuentosparaninos2cuotas/", "supports": "Curso online, ocho sesiones, precio mostrado, pago en dos cuotas y ausencia de fechas."},
+        {"url": "https://casacontada.com/producto/masterclass-introduccion-al-arte-de-contar-cuentos/", "supports": "Masterclass gratuita del 23 y 24 de septiembre 2026, ya pasada y sin existencias; no ofrecer como próxima."}
+      ],
+      "next_step": "Consultar próximo taller práctico introductorio, calendario y valor total. No inscribir ni pagar sin respuesta."
+    },
+    {
+      "id": "la-matrioska",
+      "name": "Compañía La Matrioska",
+      "type": "compania_y_formacion_por_encargo",
+      "status": "Compañía activa; no se encontró un taller presencial individual con fecha y cupos públicos.",
+      "format": "Funciones y talleres por encargo. La compañía deriva los talleres largos de once sesiones a Casa Contada y recibe consultas para talleres introductorios breves.",
+      "dates": null,
+      "price": null,
+      "contact": {"email": "lamatrioska.cuentos@gmail.com", "website": "https://lamatrioska.cl/"},
+      "evidence": [{"url": "https://lamatrioska.cl/", "supports": "Nicole Castillo y Andrés Montero; funciones para adultos, formación por encargo y vínculo con Casa Contada y ChileCuentos."}],
+      "next_step": "Consultar oferta abierta para principiantes; distinguir una cotización grupal de un curso con matrícula individual."
+    },
+    {
+      "id": "mustakis",
+      "name": "Fundación Mustakis / Escuela Nacional de Cuentacuentos",
+      "type": "programa_cerrado_referencia_historica",
+      "status": "El programa Cuentacuentos terminó en 2024, según la memoria oficial 2024, página impresa 13. No recomendar como escuela vigente.",
+      "format": "Históricamente presencial y online para mayores de 18 años.",
+      "dates": {"last_program_year": 2024},
+      "price": null,
+      "contact": {"email": "contacto@fundacionmustakis.org", "phone": "+56 2 2820 8585", "website": "https://www.fundacionmustakis.org/"},
+      "evidence": [
+        {"url": "https://www.fundacionmustakis.org/wp-content/uploads/2025/07/Memoria2024-2.pdf", "supports": "Fin del programa Cuentacuentos en 2024, página 13. Confirmado mediante texto indexado del PDF; apertura completa falló por tamaño de 53 MB."},
+        {"url": "https://www.fundacionmustakis.org/landing/ecc/", "supports": "Landing histórica aún accesible cuya invitación dice 2024; contacto institucional."}
+      ],
+      "contradiction": "La persistencia de una landing y resultados recientes del buscador no equivale a una convocatoria 2026."
+    },
+    {
+      "id": "cinoch",
+      "name": "Círculo de Narradores Orales de Chile (CINOCH)",
+      "type": "comunidad_y_gremio",
+      "status": "Actividad de la organización comprobada en 2026. No se confirmó curso introductorio abierto ni admisión de aficionados con fecha actual en Santiago.",
+      "format": "Encuentros, formación y difusión; no confundir asociación gremial con escuela abierta de matrícula permanente.",
+      "dates": {"verified_event": "2026-08-27", "event": "Nütram 2026, X Encuentro de Narradores Orales de Chile", "location": "San Pedro de la Paz, Biobío; fuera de Santiago y ya pasado"},
+      "price": null,
+      "contact": {"event_email_2026": "nutramcinoch@gmail.com", "historical_general_email": "contacto@cinoch.cl", "website": "https://cinoch.cl/", "website_status": "No accesible mediante la herramienta de lectura durante esta revisión."},
+      "evidence": [
+        {"url": "https://sppcultura.cl/nutram-2026-reunira-a-narradores-orales-de-distintas-regiones-del-pais/", "supports": "Coorganizador confirma organización, fecha, talleres y correo de Nütram 2026."},
+        {"url": "https://www.camara.cl/verDoc.aspx?prmID=65390&prmTIPO=DOCUMENTOCOMUNICACIONCUENTA", "supports": "Documento elaborado por CINOCH con descripción y correo general. No tratar su fecha de indexación reciente como fecha de creación."}
+      ],
+      "next_step": "Consultar próximas instancias públicas y requisitos para participar como principiante."
+    },
+    {
+      "id": "chilecuentos-2026",
+      "name": "Festival Internacional ChileCuentos 2026",
+      "type": "festival_funciones_no_escuela",
+      "status": "Edición 2026 en curso al 31 de octubre; la Narratón familiar del 31 de octubre aparece suspendida en la cartelera oficial.",
+      "dates": {"start": "2026-10-23", "end": "2026-11-07", "adult_gala": "2026-11-01T18:00:00-03:00"},
+      "location": "Función estelar adulta: Aula Magna del Liceo Manuel de Salas, Ñuñoa.",
+      "price": {"adult_gala_clp": 10000},
+      "contact": {"program": "https://chilecuentos.cl/", "tickets": "https://casacontada.com/tc-events/funcion-estelar-de-chilecuentos/", "qualification": "Venta publicada a $10.000; no se confirmó disponibilidad final de entradas."},
+      "evidence": [
+        {"url": "https://chilecuentos.cl/", "supports": "Año 2026, fechas del festival y suspensión de Narratón."},
+        {"url": "https://chilecuentos.cl/eventos/funcion-estelar-en-aula-magna-liceo-manuel-de-salas/", "supports": "Función adulta 1 de noviembre 18:00, cuatro narradores y entrada $10.000."}
+      ],
+      "contradiction": "TVN publica 19:00 para la gala y horarios/lugares diferentes para otros eventos; el organizador oficial indica 18:00 y debe prevalecer."
+    },
+    {
+      "id": "pep-bruno-montecarmelo-2026",
+      "name": "Pep Bruno: Este cuento vino a mí",
+      "type": "funcion_para_adultos",
+      "status": "Anunciada oficialmente para sábado 7 de noviembre de 2026. Es espectáculo para escuchar cuentos, no taller para aprender a narrar.",
+      "dates": {"start": "2026-11-07T17:30:00-03:00"},
+      "location": "Centro Cultural Montecarmelo, Providencia.",
+      "price": {"clp": 0, "qualification": "Gratuita, cupos limitados, inscripción previa. Cupos restantes no comprobados."},
+      "contact": {"event": "https://chilecuentos.cl/eventos/funcion-para-publico-adulto-en-providencia/", "registration_form": "https://docs.google.com/forms/d/e/1FAIpQLScbYXVJxFEOfjvsxjzDnJsOIyC6f7HypwTvGlExxq9bncnT6w/viewform", "form_note": "Enlace publicado por organizador; formulario no legible en la herramienta. Buscar Este cuento vino a mí."},
+      "evidence": [
+        {"url": "https://chilecuentos.cl/", "supports": "Cartelera Santiago 2026 especifica fecha, hora y lugar."},
+        {"url": "https://chilecuentos.cl/eventos/funcion-para-publico-adulto-en-providencia/", "supports": "Nombre, público adulto, gratuidad, inscripción y lugar."}
+      ],
+      "do_not_confuse": "Ese mismo 7 de noviembre hay otra función de Pep Bruno, familiar, a las 12:00 en Montecarmelo."
+    },
+    {
+      "id": "cuenteros-chile",
+      "name": "Cuenteros Chile",
+      "type": "taller_online_y_formacion_docente_por_encargo",
+      "status": "Oferta publicada, pero la próxima fecha necesita confirmación: el resultado indexado reciente muestra 05/11/2026 y la apertura de la página muestra 01/10/2026.",
+      "format": "Taller básico online vía Zoom, una sesión, sin experiencia previa. Modalidad presencial únicamente anunciada para colegios/jardines, grupos de tres a veinte, por cotizar.",
+      "dates": {"search_index_next_date": "2026-11-05", "page_open_next_date": "2026-10-01", "verified_current_date": null},
+      "price": {"basic_online_clp": 10000, "presential_group": "Variable según grupo y duración"},
+      "contact": {"website_and_form": "https://www.cuenteroschile.cl/talleres"},
+      "evidence": [{"url": "https://www.cuenteroschile.cl/talleres", "supports": "Modalidad, precio, contenido y contacto; la fecha difiere entre índice de búsqueda y página abierta."}],
+      "next_step": "Confirmar próxima fecha por formulario antes de presentarlo como cupo disponible."
+    },
+    {
+      "id": "lo-barnechea-centro-lector",
+      "name": "Centro Lector de Lo Barnechea: Quiero ser cuentacuentos",
+      "type": "curso_presencial_pasado_2026",
+      "status": "Taller real del primer semestre 2026 ya finalizado; no se confirmó nueva cohorte abierta.",
+      "dates": {"sessions": ["2026-04-09", "2026-04-16", "2026-04-30", "2026-05-07", "2026-05-14", "2026-05-28", "2026-06-04", "2026-06-11"], "time": "10:30–12:30"},
+      "location": "Centro Lector, Av. Lo Barnechea 1174, Lo Barnechea.",
+      "price": {"neighbors_clp": 20000, "general_clp": 40000, "qualification": "Valores de la convocatoria pasada, no cotización actual."},
+      "contact": {"phone": "+56 2 2754 3820", "website": "https://corporacionculturaldelobarnechea.cl/actividades/talleres/talleres-centro-lector-primer-semestre-2026/"},
+      "evidence": [{"url": "https://corporacionculturaldelobarnechea.cl/actividades/talleres/talleres-centro-lector-primer-semestre-2026/", "supports": "Ocho fechas específicas, horario, precio, dirección y teléfono del Centro Lector."}],
+      "contradiction": "La información general marzo-diciembre de la página corresponde al conjunto de talleres. No extiende este curso hasta diciembre."
+    },
+    {
+      "id": "uchile-detuch-2023",
+      "name": "Universidad de Chile / CINOCH: Narración Oral Teatral",
+      "type": "curso_presencial_historico_2023",
+      "status": "Antecedente histórico del 23 de octubre al 18 de diciembre de 2023. No es convocatoria 2026.",
+      "dates": {"start": "2023-10-23", "end": "2023-12-18", "weekday": "lunes", "time": "18:30–20:30"},
+      "location": "Departamento de Teatro, Morandé 750, Santiago.",
+      "price": {"historical_clp": 96000},
+      "contact": {"email": "cursosdetuch.artes@uchile.cl", "phone": "+56 2 2977 1799"},
+      "evidence": [{"url": "https://artes.uchile.cl/cursos/208176/taller-de-narracion-oral-teatral-el-arte-y-oficio-de-contar-historias", "supports": "Fechas 2023, presencial, abierto a público interesado, arancel y contacto."}],
+      "contradiction": "La descripción habla de seis sesiones pero metodología dice ocho clases y dieciséis horas. No replicar duración sin aclarar; además, la fecha de rastreo reciente no indica vigencia."
+    }
+  ],
+  "global_corrections": [
+    "Confirmado que Pep Bruno adulto 7 de noviembre 17:30 Montecarmelo corresponde a 2026; no es inferencia de un año previo.",
+    "ChileCuentos es festival; asistir a una función no equivale a matricularse en una escuela.",
+    "Casa Contada es actualmente online; no promover su antigua casona de Providencia como sede vigente.",
+    "La Matrioska y Casa Contada están vinculadas; no tratarlas como dos escuelas independientes con matrículas abiertas.",
+    "Mustakis finalizó el programa en 2024 pese a mantener la landing histórica.",
+    "Distinguir fecha de publicación, fecha de rastreo y fechas de actividad; no convertir referencias pasadas en ofertas vigentes."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "checked_at": "2026-10-31",
+  "focus": "Formación presencial recreativa de cuentacuentos para adultos en Providencia/Santiago y alrededores; fuentes oficiales",
+  "summary": "No identifiqué una inscripción abierta confirmada a un curso presencial recreativo para adultos en las fuentes de este bloque. Sí hay un contacto especializado nuevo muy pertinente (Edel Arriagada / Había una vez…Truz), cursos pasados que sirven para preguntar nuevas ediciones y una actividad familiar próxima confirmada.",
+  "findings": [
+    {
+      "id": "truz",
+      "organization": "Había una vez…Truz / Edel Arriagada",
+      "title": "Taller de introducción a la narración oral",
+      "kind": "Formación especializada por consultar",
+      "area": "Santiago; sede por confirmar",
+      "status": "Oferta de talleres publicada, sin próxima fecha ni cupos confirmados",
+      "fit": "Alta para interés artístico personal; pedir modalidad presencial y grupo recreativo",
+      "description": "El sitio de la narradora ofrece introducción teórico-práctica, adaptación de textos y escena, y taller temático avanzado. La introducción trabaja creatividad, expresión y confianza al narrar. También anuncia funciones para adultos vinculadas al Mesón Nerudiano.",
+      "dates": null,
+      "price": null,
+      "audience": "Personas interesadas en narración oral; público adulto para sus funciones",
+      "address": null,
+      "email": "edel.arriagada@gmail.com",
+      "phone": "+56 9 6657 0410",
+      "url": "https://habiaunaveztruz.cl/",
+      "sources": [
+        {
+          "url": "https://habiaunaveztruz.cl/",
+          "evidence": "Apartado Talleres y Mayor información Funciones y talleres, líneas 38–61 y123–127 de la página consultada."
+        }
+      ],
+      "next_action": "Preguntar por el próximo grupo presencial de iniciación, sede, fechas y valor. No se ha enviado ninguna consulta."
+    },
+    {
+      "id": "mubo",
+      "organization": "Museo de Bomberos de Santiago (MuBo)",
+      "title": "Libro álbum como herramienta para contar cuentos",
+      "kind": "Taller presencial para jóvenes y adultos, edición pasada",
+      "area": "Santiago Centro",
+      "status": "Edición realizada el 11 de abril de 2026; próxima edición por confirmar",
+      "fit": "Media-alta si le interesa narrar a niñas y niños; no es un curso largo",
+      "description": "La programación oficial del Mes del Libro 2026 incluyó un taller con Nicolás Toro para jóvenes y adultos interesados en fomento lector para infancia. Fue presencial, gratuito y con inscripción previa.",
+      "dates": "11 de abril de 2026, 11:00–13:30 (pasada)",
+      "price": "Gratis en esa edición; no equivale al precio de una futura actividad ni a la entrada regular del museo",
+      "audience": "Jóvenes y adultos: docentes, bibliotecarios, educadores, familias y personas interesadas",
+      "address": "Santo Domingo 978, Santiago",
+      "email": "visitas.mubo@cbs.cl",
+      "phone": "+56 2 2306 1526",
+      "url": "https://mubo.cl/noticias/mes-del-libro-y-la-lectura-2026",
+      "sources": [
+        {
+          "url": "https://mubo.cl/noticias/mes-del-libro-y-la-lectura-2026",
+          "evidence": "Título 2026; descripción del taller 11 de abril en líneas35–42."
+        },
+        {
+          "url": "https://www.mubo.cl/educacion",
+          "evidence": "Contacto de consultas institucionales: +56223061526 y visitas.mubo@cbs.cl."
+        }
+      ],
+      "next_action": "Consultar si repetirán el taller con Nicolás Toro o una formación similar para adultos."
+    },
+    {
+      "id": "biblioteca-santiago-kamishibai",
+      "organization": "Biblioteca de Santiago",
+      "title": "Cuentos en Kamishibai y creación para niñas y niños",
+      "kind": "Panorama familiar; no formación de adultos",
+      "area": "Santiago / Barrio Yungay",
+      "status": "Actividad anunciada para 4 de noviembre de 2026; disponibilidad no comprobada",
+      "fit": "Baja para aprender formalmente; útil para observar una técnica y hacer contactos",
+      "description": "La ficha oficial identifica narración con técnica kamishibai y creación para familias, en Sala Infantil. Confirma el año 2026 de la afirmación del historial.",
+      "dates": "4 de noviembre de 2026, 16:00–17:00",
+      "price": "No indicado expresamente en la ficha recuperada; dice actividad abierta a todo público",
+      "audience": "Niñas, niños y familias",
+      "address": "Matucana 151, Sala Infantil, Biblioteca de Santiago",
+      "email": "fl@bibliotecadesantiago.gob.cl",
+      "phone": null,
+      "url": "https://www.bibliotecasantiago.gob.cl/cartelera/cuentos-en-kamishibai-y-creacion-para-ninas-y-ninos",
+      "sources": [
+        {
+          "url": "https://www.bibliotecasantiago.gob.cl/cartelera/cuentos-en-kamishibai-y-creacion-para-ninas-y-ninos",
+          "evidence": "Resultado indexado del dominio oficial muestra fecha04/Noviembre/2026,16–17,Matucana151,Presencial; acceso directo dio error en herramienta."
+        },
+        {
+          "url": "https://www.bibliotecasantiago.gob.cl/sites/www.bibliotecasantiago.gob.cl/files/2026-01/TALLERES_ENE_2026_V2..pdf",
+          "evidence": "Publicación oficial enero2026 ofrece fl@bibliotecadesantiago.gob.cl como contacto Fomento Lector."
+        }
+      ],
+      "next_action": "Para formación, preguntar a Fomento Lector por nuevos cursos presenciales para mayores de18; no confundir con esta actividad familiar."
+    },
+    {
+      "id": "bibliotecas-providencia",
+      "organization": "Sistema de Bibliotecas de Providencia",
+      "title": "Cartelera y consultas por talleres para adultos",
+      "kind": "Pista municipal vigente; formación oral exacta no confirmada",
+      "area": "Providencia",
+      "status": "Cartelera de octubre2026 publicada; nueva formación oral por consultar",
+      "fit": "Media para ambiente grupal y conocer comunidad; los talleres localizados son principalmente de escritura",
+      "description": "La cartelera oficial de octubre2026 contiene talleres gratuitos de relato breve, crónica, creación literaria y una función de narración oral del festival el30oct. No encontré una convocatoria confirmada de formación oral para adultos a partir del31oct.",
+      "dates": "Cartelera consultada octubre2026; fechas futuras de curso específico desconocidas",
+      "price": "La cartelera marca gratuitas varias actividades citadas; confirmar valor de cualquier futura formación",
+      "audience": "Depende de cada taller; verificar edad y requisitos",
+      "address": "Biblioteca Municipal: Manuel Montt101; Café Literario Parque Balmaceda: Av.Providencia410; Café Literario Santa Isabel: Santa Isabel1240",
+      "email": "bibliotecasdeprovidencia@providencia.cl",
+      "phone": null,
+      "url": "https://www.providencia.cl/provi/2026-actividades-de-octubre",
+      "sources": [
+        {
+          "url": "https://www.providencia.cl/provi/2026-actividades-de-octubre",
+          "evidence": "Cartelera oficial fecha30oct función Andrés Montero y Claudia Stella; talleres relato breve, crónica, narrativa."
+        },
+        {
+          "url": "https://embed-rech-01.dialog.cm/muniprovi/docs/edici_n_n_24",
+          "evidence": "Revista municipal edición24 octubre2026 publica bibliotecasdeprovidencia@providencia.cl para inscripciones."
+        },
+        {
+          "url": "https://biblioteca.providencia.cl/provi/explora/noticias/municipalidad/nueva-sede-de-la-biblioteca-municipal-de-providencia",
+          "evidence": "Noticia20mar2026 confirma nueva sede Manuel Montt101."
+        }
+      ],
+      "next_action": "Escribir al sistema y seguir @bibliotecasprovi preguntando específicamente por narración oral presencial recreativa para adultos."
+    },
+    {
+      "id": "uchile-teatro",
+      "organization": "Universidad de Chile / Departamento de Teatro",
+      "title": "Taller de Narración Oral Teatral: El arte y oficio de contar historias",
+      "kind": "Referencia histórica de formación presencial",
+      "area": "Santiago Centro",
+      "status": "Curso23oct–18dic2023; no inscripción actual confirmada",
+      "fit": "Alta por temática, pero no vigente",
+      "description": "La ficha oficial invita a todo público interesado, con formación corporal, vocal y selección de repertorio, junto al Círculo de Narradores Orales de Chile. El encabezado fecha explícitamente2023; no presentarlo como curso2026.",
+      "dates": "23 de octubre al18 de diciembre de2023,lunes18:30–20:30",
+      "price": "$96.000 arancel de edición2023; no precio actual",
+      "audience": "Todo público interesado en la disciplina",
+      "address": "Morandé750, Departamento de Teatro",
+      "email": "cursosdetuch.artes@uchile.cl",
+      "phone": null,
+      "url": "https://uchile.cl/cursos/208176/taller-de-narracion-oral-teatral-el-arte-y-oficio-de-contar-historias",
+      "sources": [
+        {
+          "url": "https://uchile.cl/cursos/208176/taller-de-narracion-oral-teatral-el-arte-y-oficio-de-contar-historias",
+          "evidence": "Encabezado líneas46–56 fecha2023 y todo público; líneas69–85 presencial,contacto,arancel."
+        }
+      ],
+      "next_action": "Consultar a Educación Continua Teatro si repetirán iniciación a la narración oral en2027."
+    },
+    {
+      "id": "m100",
+      "organization": "Matucana100",
+      "title": "Narración oral en escuelas, con Omar Saldivia",
+      "kind": "Taller histórico, enfoque educativo",
+      "area": "Estación Central / Matucana",
+      "status": "Archivo2023; próximas ediciones no confirmadas",
+      "fit": "Media; admite otras personas adultas interesadas pero tiene enfoque educativo",
+      "description": "La página está explícitamente en Archivo2023. Taller presencial de una sesión sobre técnicas de narración oral, lectura en voz alta y cuentos motores. No confundir el recrawl reciente del PDF con una nueva convocatoria.",
+      "dates": "3 de junio y22 de julio2023; cada taller1sesión11–14",
+      "price": "$5.000 por sesión de edición2023",
+      "audience": "Profesores,educadores,bibliotecarios y otras personas adultas interesadas",
+      "address": "Matucana100 (confirmar sede de cualquier futura edición)",
+      "email": "pem@m100.cl",
+      "phone": null,
+      "url": "https://www.m100.cl/archivo/2023/talleres-2023/narracion-oral/",
+      "sources": [
+        {
+          "url": "https://www.m100.cl/archivo/2023/talleres-2023/narracion-oral/",
+          "evidence": "Ruta y breadcrumb Archivo2023; presencial03/06y22/07,11–14,$5.000,pem@m100.cl."
+        }
+      ],
+      "next_action": "Preguntar a programa educativo por futuras fechas o recomendaciones de iniciación recreativa."
+    },
+    {
+      "id": "nicomedes-guzman",
+      "organization": "Biblioteca Municipal Nicomedes Guzmán / Santiago Cultura",
+      "title": "Capacitación para narrar cuentacuentos (referencia de personas mayores)",
+      "kind": "Pista municipal histórica y con restricción de público",
+      "area": "Santiago Centro",
+      "status": "Referencia institucional de agosto2025; convocatoria nueva no identificada",
+      "fit": "Baja sin confirmar edad de la usuaria; no presentar como curso abierto a cualquier adulto",
+      "description": "Una noticia de27agosto2025 documenta que personas mayores participantes de un taller de capacitación narraron cuentos en actividad infantil. Acredita antecedente de formación, sin anunciar matrícula ni detalles de un nuevo curso.",
+      "dates": "Noticia27agosto2025 sobre actividad30agosto2025",
+      "price": null,
+      "audience": "La formación mencionada está vinculada a adultos mayores; requisitos por confirmar",
+      "address": "Guardia Marina Ernesto Riquelme226,metroSanta Ana",
+      "email": "bibliotecamunicipal@munistgo.cl",
+      "phone": "+56 9 7851 4292",
+      "url": "https://www.santiagocultura.cl/la-biblioteca-municipal-nicomedes-guzman-celebra-el-mes-de-la-infancia-con-erase-una-vez-la-infancia/",
+      "sources": [
+        {
+          "url": "https://www.santiagocultura.cl/la-biblioteca-municipal-nicomedes-guzman-celebra-el-mes-de-la-infancia-con-erase-una-vez-la-infancia/",
+          "evidence": "Línea46 grupo adultosmayores en taller;56–58 dirección y contacto."
+        },
+        {
+          "url": "https://www.santiagocultura.cl/category/sin-categoria/biblioteca-municipal/page/2/",
+          "evidence": "Índice oficial ubica noticia27agosto2025."
+        }
+      ],
+      "next_action": "Consultar si existe formación para adultos de otras edades o recomendaciones municipales."
+    }
+  ],
+  "additional_screening": [
+    {
+      "organization": "Balmaceda Arte Joven",
+      "url": "https://linktr.ee/balmaceda_artejoven",
+      "result": "En búsqueda de oferta oficial no identifiqué curso exacto de cuentacuentos para adultos; no inferir inexistencia."
+    },
+    {
+      "organization": "GAM",
+      "url": "https://gam.cl/es/que-hacer-en-gam/actividades/itinerancias-literarias/",
+      "result": "Las propuestas identificadas son principalmente para infancias/familias, no equivalen a formación recreativa adulta."
+    },
+    {
+      "organization": "Centro Cultural La Moneda",
+      "url": "https://www.cclm.cl/actividades/sombras-cuentos-y-suenos/",
+      "result": "Actividad4jul2026 dirigida a niños,ya pasada; no cursoadultos."
+    },
+    {
+      "organization": "Amanuta",
+      "url": "https://amanuta.cl/blogs/actividades-y-talleres/contar-cuentos-para-publico-infantil",
+      "result": "Publica taller para adultos conVilmaVerdejo,sábado26mar,sin año visible en resultado; no corresponde al26mar2026 (jueves),ni confirma inscripción actual. No recomendar como próximo."
+    }
+  ],
+  "limitations": [
+    "Búsqueda documental: no se contactó a organizaciones, no se comprobó cupo en formularios ni se hicieron reservas.",
+    "Una ausencia en resultados no acredita que una institución no tenga talleres.",
+    "Conservar años reales y no reutilizar aranceles históricos como actuales.",
+    "La ficha de BibliotecaSantiago confirma año2026 desde resultado oficial indexado, pero acceso directo por herramienta falló."
+  ]
+}

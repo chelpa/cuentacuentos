@@ -1,0 +1,339 @@
+{
+  "checked_as_of": "2026-10-31",
+  "timezone": "America/Santiago",
+  "scope": {
+    "communes": [
+      "Vitacura",
+      "Lo Barnechea",
+      "Las Condes",
+      "La Reina"
+    ],
+    "activity": "Aprender narración oral/cuentacuentos en forma presencial, para adultos por interés personal",
+    "priority": "Municipalidades, corporaciones culturales y bibliotecas; instituciones universitarias como antecedente secundario"
+  },
+  "summary": "No se verificó una inscripción específica de cuentacuentos para adultos con inicio posterior al 31 de octubre de 2026 en estas cuatro comunas. Sí hay antecedentes oficiales concretos y contactos locales útiles. Las convocatorias 2026 de Centro Lector Lo Barnechea y Biblioteca Pública La Reina son la evidencia reciente más sólida; las ediciones verificadas ya finalizaron. No confundir Cuentanietos de Vitacura (2024) con un curso 2026 ni las funciones de cuentacuentos infantiles con formación para adultos.",
+  "status_definitions": {
+    "vigente": "La fuente confirma una actividad o programa en el período actual; esto no prueba por sí solo cupos disponibles",
+    "pasado": "Las fechas verificadas de la edición ya transcurrieron",
+    "por_confirmar": "No hay evidencia suficiente de una próxima edición o de cupos actuales"
+  },
+  "institutions": [
+    {
+      "institution": "Centro Lector — Corporación Cultural de Lo Barnechea",
+      "commune": "Lo Barnechea",
+      "priority": 1,
+      "program": "Quiero ser cuentacuentos",
+      "match": "Muy buen ajuste como iniciación; la descripción histórica admite amantes de la narración y ofrece incorporación posterior al voluntariado. Debe consultarse si el voluntariado es opcional.",
+      "verified_edition": {
+        "year": 2026,
+        "period": "primer semestre",
+        "dates": [
+          "2026-04-09",
+          "2026-04-16",
+          "2026-04-30",
+          "2026-05-07",
+          "2026-05-14",
+          "2026-05-28",
+          "2026-06-04",
+          "2026-06-11"
+        ],
+        "time": "10:30–12:30",
+        "sessions": 8,
+        "format": "Presencial en Centro Lector",
+        "price_clp": {
+          "neighbors": 20000,
+          "general": 40000
+        },
+        "price_note": "Estos son los precios de la edición confirmada de primer semestre 2026; no constituyen tarifa de una futura edición.",
+        "status": "pasado"
+      },
+      "second_semester_2026": {
+        "status": "por_confirmar",
+        "verified": "Existe convocatoria general oficial de talleres del segundo semestre 2026; dice que las clases comienzan en agosto, incluye Centro Lector y enlaza categorías Libros y Lectura y Mediación.",
+        "not_verified": "La página general no enumera las fechas ni el precio del taller Quiero ser cuentacuentos. No se pudo comprobar su ficha específica en el catálogo de inscripciones.",
+        "catalog_url": "https://sertex.stonline.cl/ccLoBarnechea/cclbFrontOffice/?peId=1128"
+      },
+      "contact": {
+        "address": "Av. Lo Barnechea 1174",
+        "email": "centrolector@cclb.cl",
+        "phone": "+56 2 2754 3820"
+      },
+      "sources": [
+        {
+          "url": "https://corporacionculturaldelobarnechea.cl/actividades/talleres/talleres-centro-lector-primer-semestre-2026/",
+          "type": "oficial",
+          "supports": "Año explícito 2026; ocho fechas de abril a junio; horario y precios."
+        },
+        {
+          "url": "https://corporacionculturaldelobarnechea.cl/actividades/talleres/talleres-segundo-semestre-2026-2/",
+          "type": "oficial",
+          "supports": "Convocatoria general del segundo semestre 2026; clases desde agosto, sedes y enlaces a inscripción."
+        },
+        {
+          "url": "https://corporacionculturaldelobarnechea.cl/",
+          "type": "oficial",
+          "supports": "Centro Lector, dirección, email y programa permanente de Voluntariado Cuentacuentos."
+        },
+        {
+          "url": "https://corporacionculturaldelobarnechea.cl/talleres/",
+          "type": "oficial",
+          "supports": "Teléfono de Centro Lector +562 2754 3820 y dirección."
+        },
+        {
+          "url": "https://corporacionculturaldelobarnechea.cl/actividades/actividades/taller-quiero-ser-cuentacuentos/",
+          "type": "oficial_historica_sin_ano_visible",
+          "supports": "Descripción de iniciación y acceso al voluntariado; no usar para fechar una edición 2026."
+        }
+      ],
+      "next_step": "Consultar próxima edición para adultos por interés personal, lista de espera 2027 y eventual obligación de voluntariado."
+    },
+    {
+      "institution": "Biblioteca de Vitacura — Corporación Cultural de Vitacura",
+      "commune": "Vitacura",
+      "priority": 2,
+      "program": "Taller Cuentanietos",
+      "match": "Formación en memoria familiar y narración oral para públicos infantiles, especialmente alumnos/abuelos. No es un taller general de narración escénica para cualquier adulto; no se publica edad mínima numérica.",
+      "verified_edition": {
+        "year": 2024,
+        "dates": {
+          "start": "2024-09-30",
+          "end": "2024-11-25"
+        },
+        "schedule": "Lunes 11:00–13:00",
+        "format": "Presencial",
+        "price_clp": {
+          "general_quarter": 5000,
+          "mi_vita_quarter": 2500
+        },
+        "status": "pasado"
+      },
+      "current_offer": {
+        "status": "por_confirmar",
+        "verified": "El sitio anuncia inscripciones generales de talleres de Biblioteca del segundo semestre 2026 desde el 2 de julio y una noticia oficial menciona escritura narrativa y cómic entre las novedades.",
+        "not_verified": "No se encontró una nueva convocatoria Cuentanietos 2026. El buscador oficial fecha la ficha todavía indexada en 2024. La oferta regular de Cuentacuentos en la Biblioteca corresponde a funciones familiares/infantiles, no a formación de adultos."
+      },
+      "contact": {
+        "address": "Av. San Josemaría Escrivá de Balaguer 6420",
+        "email": "biblioteca@vitacura.cl",
+        "phone": "+56 2 2240 3684"
+      },
+      "sources": [
+        {
+          "url": "https://vitacuracultura.cl/evento/taller-cuentanietos-en-la-biblioteca/",
+          "type": "oficial",
+          "supports": "Objetivo, público, lunes, horas y valores; la ficha individual no muestra año en el cuerpo."
+        },
+        {
+          "url": "https://vitacuracultura.cl/buscador/",
+          "type": "oficial",
+          "supports": "El resultado Taller Cuentanietos en la Biblioteca tiene período explícito 30 septiembre 2024–25 noviembre 2024."
+        },
+        {
+          "url": "https://vitacuracultura.cl/noticia/cursos-del-2-semestre-llegan-con-alternativas-para-todas-las-edades-e-intereses/",
+          "type": "oficial",
+          "publication_date": "2026-06-29",
+          "supports": "Convocatoria general Biblioteca desde 2 julio 2026, con novedades de escritura narrativa y cómic; contacto general corporación."
+        },
+        {
+          "url": "https://vitacuracultura.cl/programas/biblioteca/",
+          "type": "oficial",
+          "supports": "Contacto directo y actividades actuales de la Biblioteca."
+        },
+        {
+          "url": "https://vitacuracultura.cl/noticia/la-biblioteca-de-vitacura-retoma-su-atencion-al-publico/",
+          "type": "oficial",
+          "publication_date": "2026-02-23",
+          "supports": "Los cuentacuentos semanales se describen expresamente como infantiles; contacto Biblioteca."
+        }
+      ],
+      "next_step": "Consultar si habrá Cuentanietos o un taller similar 2027 y si admite a adultos sin ser abuelos."
+    },
+    {
+      "institution": "Biblioteca Pública de La Reina — Corporación Cultural de La Reina",
+      "commune": "La Reina",
+      "priority": 3,
+      "program": "Taller gratuito de cuentacuentos con Teatristas",
+      "match": "Acepta educadores, mediadores, apoderados y personas interesadas en narración oral y trabajo con público infantil; no exige que todos sean profesionales. Incluye voz, cuerpo, personajes, títeres, kamishibai y sombras.",
+      "verified_edition": {
+        "year": 2026,
+        "dates": {
+          "start": "2026-05-05",
+          "end": "2026-07-11"
+        },
+        "time": "09:00",
+        "sessions": 10,
+        "format": "Presencial",
+        "price_clp": 0,
+        "registration": "La ficha informa cupos agotados",
+        "status": "pasado"
+      },
+      "current_offer": {
+        "status": "por_confirmar",
+        "not_verified": "No se verificó nueva convocatoria de narración oral para adultos posterior a octubre de 2026. Una noticia oficial del 11 agosto 2026 confirma que este ciclo concluyó durante julio."
+      },
+      "contact": {
+        "address": "Av. Alcalde Fernando Castillo Velasco 8580",
+        "email": "biblioteca@culturalareina.cl",
+        "phone": "+56 9 5412 4316"
+      },
+      "sources": [
+        {
+          "url": "https://culturalareina.cl/evento/taller-gratuito-de-cuentacuentos-se-realizara-en-la-biblioteca-publica-de-la-reina-teatristas/",
+          "type": "oficial",
+          "supports": "Fechas explícitas 05 MAY 26–11 JUL 26, 09:00, gratuidad, diez sesiones, público y cupos agotados; contacto directo Biblioteca."
+        },
+        {
+          "url": "https://culturalareina.cl/2026/08/11/corporacion-cultural-de-la-reina-finaliza-con-exito-dos-programas-gratuitos-de-formacion-artistica-para-la-comunidad/",
+          "type": "oficial",
+          "publication_date": "2026-08-11",
+          "supports": "Confirma cierre de taller de mayo–julio, muestra final y participación de veinte adultos."
+        }
+      ],
+      "next_step": "Consultar repetición del taller, aviso anticipado o lista de interés para próximas convocatorias."
+    },
+    {
+      "institution": "Corporación Cultural de Las Condes — Academia y Biblioteca",
+      "commune": "Las Condes",
+      "priority": 4,
+      "program": "Oferta de cursos y talleres 2026; formación específica de narración oral por confirmar",
+      "match": "Institución local útil para consultar, pero no se verificó un taller presencial específico de cuentacuentos para adultos en la programación 2026. Oratoria con herramientas teatrales es solo una alternativa afín, no equivalente.",
+      "verified_edition": {
+        "program": "Oratoria y expresión oral con herramientas teatrales — Muriel Lagno",
+        "year": 2026,
+        "period": "primer semestre",
+        "start": "2026-04-06",
+        "schedule": "Lunes 19:00–20:30",
+        "sessions": 12,
+        "age": "Se sugiere desde 18 años",
+        "price_clp": {
+          "general": 210000,
+          "tarjeta_vecino": 189000
+        },
+        "status": "pasado",
+        "not_equivalent": true
+      },
+      "current_offer": {
+        "status": "por_confirmar",
+        "verified": "La categoría oficial publica el 6 julio 2026 la oferta del segundo semestre, desde 3 agosto, en Nuestra Señora del Rosario 30 y Padre Hurtado Sur 1195; es una convocatoria general de más de 50 talleres.",
+        "not_verified": "No se pudo verificar en ella una capacitación específica de narración oral para adultos ni cupos actuales. Fichas llamadas Cuentacuentos con Nicolás Toro describen funciones para público infantil y aparecen en un subdominio de desarrollo; no prueban formación adulta 2026."
+      },
+      "contact": {
+        "address": "Nuestra Señora del Rosario 30",
+        "email": "cursos@culturallascondes.cl",
+        "phone": null,
+        "phone_note": "No se verificó teléfono directo actual de Academia; omitir teléfonos de las fichas antiguas con dirección Apoquindo 6570."
+      },
+      "sources": [
+        {
+          "url": "https://www.culturallascondes.cl/category/programacion-especial/cursos-y-talleres/",
+          "type": "oficial",
+          "supports": "Convocatoria general fechada 6 julio 2026, desde 3 agosto y direcciones de sedes."
+        },
+        {
+          "url": "https://www.culturallascondes.cl/wp-content/uploads/2026/02/Oratoriayexpresionoral_compressed-02.pdf",
+          "type": "oficial",
+          "supports": "Primer semestre 2026, profesora, edad sugerida, fecha, horas, sesiones y valores."
+        },
+        {
+          "url": "https://www.culturallascondes.cl/2025/12/12/cursos-y-talleres-de-verano-2026/",
+          "type": "oficial",
+          "supports": "Email cursos@culturallascondes.cl y dirección Secretaría Nuestra Señora del Rosario 30."
+        },
+        {
+          "url": "https://visitasguiadas.culturallascondes.cl/",
+          "type": "oficial",
+          "supports": "Dirección actual Biblioteca/Centro Cultural; visitas con cuentacuentos para niños de 2 a 10 años, distintas de formación adulta."
+        }
+      ],
+      "next_step": "Pedir explícitamente iniciación a narración oral/cuentacuentos para adultos por interés personal; no conformar la búsqueda con escritura creativa o una función infantil."
+    },
+    {
+      "institution": "Universidad de los Andes — Extensión Cultural",
+      "commune": "Las Condes",
+      "priority": 5,
+      "program": "Taller Narración Oral I / Contando nos encontramos",
+      "match": "Antecedente secundario de formación inicial con Elena García-Huidobro; se incluye solo como institución a consultar, sin convocatoria actual verificada.",
+      "verified_editions": [
+        {
+          "year": 2020,
+          "program": "Narración Oral I",
+          "dates": [
+            "2020-04-16",
+            "2020-04-23",
+            "2020-04-30",
+            "2020-05-07",
+            "2020-05-14",
+            "2020-05-28"
+          ],
+          "schedule": "09:30–11:30",
+          "price_clp": 120000,
+          "status": "pasado",
+          "note": "El programa indica abril 2020 explícitamente; su disponibilidad web no demuestra que se haya dictado ni que vuelva a realizarse en 2026."
+        },
+        {
+          "year": 2022,
+          "program": "Contando nos encontramos",
+          "start": "2022-08-11",
+          "schedule": "10:30–13:30",
+          "sessions": 6,
+          "format": "Híbrido: cuatro sesiones presenciales en Campus UANDES y dos online",
+          "price_clp": 150000,
+          "status": "pasado",
+          "note": "Fuente institucional de la semana del 8 agosto 2022; no es totalmente presencial."
+        }
+      ],
+      "current_offer": {
+        "status": "por_confirmar",
+        "not_verified": "No se halló convocatoria oficial 2026 o próxima inscripción equivalente."
+      },
+      "contact": {
+        "historical_email": "extension@uandes.cl",
+        "historical_phone": "+56 2 2618 1141",
+        "contact_note": "Ambos datos están en el programa 2020 y deben reconfirmarse antes de recomendar como contacto actual.",
+        "campus_address": "Av. San Carlos de Apoquindo 2200, Las Condes; acceso alternativo Av. Monseñor Álvaro del Portillo 12455"
+      },
+      "sources": [
+        {
+          "url": "https://www.uandes.cl/wp-content/uploads/2020/02/PROGRAMA-TALLER-NARRACI%C3%93N-ORAL-I-2020.pdf",
+          "type": "oficial_historica",
+          "supports": "Abril 2020 explícito, docente, seis fechas, horario, valor y contacto de entonces."
+        },
+        {
+          "url": "https://conectados.uandes.cl/wp-content/uploads/2022/09/8-agosto-2022.pdf",
+          "type": "oficial_historica",
+          "supports": "Inicio 11 agosto 2022, horario, seis sesiones híbridas y precio."
+        },
+        {
+          "url": "https://www.uandes.cl/universidad/facultades/derecho/congreso-centenario-unidroit-en-las-americas/",
+          "type": "oficial",
+          "supports": "Página de congreso noviembre 2026 confirma dirección y comuna del campus UANDES; no aporta una convocatoria de narración oral."
+        }
+      ],
+      "next_step": "Consultar solo como opción secundaria si Extensión planea retomar narración oral abierta al público; no usar precios históricos como cotización actual."
+    }
+  ],
+  "important_exclusions": [
+    {
+      "name": "Quiero ser cuentacuentos juvenil — Centro Lector",
+      "reason": "Público 12–18 años; no responde a formación para adultos.",
+      "source": "https://corporacionculturaldelobarnechea.cl/talleres/taller-quier-ser-cuentacuentos-juvenil/"
+    },
+    {
+      "name": "5to Festival Internacional de Kamishibai — Las Condes",
+      "reason": "24–25 enero 2026; encuentro familiar ya pasado, no curso continuo de iniciación para adultos.",
+      "source": "https://www.culturallascondes.cl/2026/01/16/5to-festival-internacional-de-kamishibai/"
+    },
+    {
+      "name": "Laboratorio de Creación Escénica para la Narración Oral 2026 — Ministerio de las Culturas",
+      "reason": "Postulación cerró 21 octubre 2026; exige tres años de experiencia y dos obras con funciones 2024–2025; no es iniciación por interés personal.",
+      "source": "https://www.fondosdecultura.cl/convocatoria-plan-de-fomento-disciplinar-laboratorio-de-creacion-escenica-para-la-narracion-oral-2026/"
+    }
+  ],
+  "limitations": [
+    "La búsqueda fue exclusivamente de lectura; no se contactó a instituciones ni se enviaron formularios.",
+    "El catálogo de inscripción sertex.stonline.cl no entregó detalle legible por la herramienta web. Al intentar abrirlo en navegador se rechazó el acceso por política de seguridad y permiso declinado; no se intentó un método alternativo para el mismo origen.",
+    "El catálogo de Biblioteca de Vitacura devolvió 403 en lectura web. Se conservaron como verificables únicamente las fichas y noticias oficiales accesibles.",
+    "Algunas páginas de culturallascondes.cl devolvieron 502 al abrirlas; sus resultados oficiales indexados sí permiten identificar convocatoria y fecha, pero no confirmar una ficha específica de narración oral adulta.",
+    "Una nota no oficial de Cultura Acompañada menciona una edición de Centro Lector 23 julio–10 septiembre 2026. Se registra solo como pista no verificada; no sustituye evidencia oficial. URL: https://culturaacompanada.blogspot.com/2026/06/?m=0"
+  ]
+}

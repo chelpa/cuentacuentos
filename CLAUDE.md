@@ -1,26 +1,56 @@
-# Para Cona — instrucciones para auditoría independiente con Claude Code
+# Para Cona ♥ — contexto e instrucciones
 
-## Estado y alcance
-Proyecto: guía estática, personal, en español de Chile, para compartir con Cona. Estado `RELEASE CANDIDATE / NOT PUBLISHED / NOT CLAUDE-AUDITED`.
+## Producto
+Regalo personal: guía de talleres presenciales de cuentacuentos para adultos por interés recreativo, con prioridad en Vitacura, Lo Barnechea, Las Condes, Providencia y La Reina. Cona disfrutó un curso en Puerto Varas. Conservar la ilustración, la dedicatoria y el tono cálido.
 
-No modificar código ni fuentes antes de entregar un informe de hallazgos. No solicitar ni enviar datos privados, ni publicar archivos, ni habilitar servicios externos sin autorización. La portada está autorizada para uso en esta guía; no reutilizarla como fotografía de identidad.
+## Arquitectura actual
+- HTML estático, CSS y JavaScript sin frameworks ni dependencias de ejecución.
+- `index.html` es la única fuente de datos. Cada `article.card` lleva atributos estructurados (ver README) y sus fechas en `li[data-session-id]`. Funciona sin JavaScript para leer las opciones y sus fechas.
+- `assets/app.js`: modelo leído del DOM, búsqueda por palabras clave positivas, filtros, Todas/Mis favoritos, orden, vistas Tarjetas/Agenda/Calendario, diálogo de detalle, copiar, compartir e impresión.
+- `assets/styles.css`: presentación, móvil (desde 320 px) e impresión.
+- `tests/smoke.py`: prueba de humo con Playwright, con la hora fija en 31/10/2026 (Santiago).
+- `tools/build_standalone.py`: genera `dist/Para-Cona.html` (no versionado).
+- `INVESTIGACION.md`, `INVESTIGACION_OPORTUNIDADES_2026-10-31.md` y `data/research-*.json`: evidencia.
+- `REVISION.md`: comprobaciones ejecutadas y pendientes. No heredar sus resultados sin reproducirlos.
 
-La fuente de verdad de la implementación es `index.html` + `assets/portada-cona.webp`; el HTML autosuficiente se entrega por separado. Fechas de consulta: 31-10-2026. Fichas históricas NO equivalen a inscripciones abiertas.
+## Favoritos: no romper
+- La clave `cona-favorites-v2` y su formato (arreglo de identificadores) son compartidos con las versiones publicadas.
+- Nunca renombrar ni reutilizar un `data-id` existente. Las ediciones o sesiones nuevas llevan un identificador propio `<actividad>-AAAA-MM-DD[-sufijo]`.
+- No filtrar ni borrar al guardar los identificadores que no estén en el catálogo.
+- Si cambias el formato, lee el anterior, migra y conserva un respaldo. Prueba con favoritos reales de la versión anterior.
 
-## Auditoría solicitada (APODE/RADO)
-1. **AUDIT**: leer `index.html`, `AUDITORIA_APODE_RADO.md` y ejecutar smoke tests si el entorno lo permite. Revisar semántica, accesibilidad WCAG 2.2 AA, navegación por teclado, móvil 320–430px, UX, contraste, seguridad, privacidad, enlaces y precisión de estados de las actividades.
-2. **PLAN**: proponer issues priorizados `P0 / P1 / P2`, con evidencia reproducible, impacto y criterio de aceptación. Sin inventar hallazgos.
-3. **ORGANIZE**: separar problemas del regalo personal de ideas futuras de producto público (votos, recomendaciones y verificación de usuarios).
-4. **DIRECT**: mantener la política de fuente: a) fuente oficial confirma existencia/histórico; b) estado actual y cupos solo si comprobados; c) una opinión de usuario nunca es verificación oficial.
-5. **EXECUTE**: después de entregar informe y autorización explícita, aplicar correcciones mínimas, ejecutar tests, reportar diff y riesgos remanentes. Nunca desplegar automáticamente.
+## Alcance
+Mantener esta guía estática. Las cuentas, votaciones, reseñas, fotos compartidas y una plataforma pública de actividades son un proyecto futuro. No añadir backend, autenticación, pagos, analíticas ni dependencias de ejecución sin una necesidad autorizada.
 
-## No negociables
-- Conservar los 4 enlaces originales: Lo Barnechea; Fundación Mustakis; Casa Contada; chilecuentos.cl.
-- No afirmar cupos disponibles si no hay verificación temporal específica.
-- No agregar rastreadores, cookies de terceros, formularios de datos personales, dashboards de votos falsos ni testimonios fabricados.
-- No promover el proyecto futuro de actividades a `CANON / ADOPTED`: mantenerlo `CANDIDATE`.
-- Preservar la intención personal: romántica, bonita, sencilla y fácil de usar en Android.
-- Mantener los controles funcionales: búsqueda, filtros, favoritos, compartir, copiar y accesibilidad del teclado.
+## Datos y fuentes
+- Una publicación oficial no acredita cupos disponibles. Una función infantil no equivale a formación para adultos.
+- Distinguir cursos, funciones, afines, online, ediciones pasadas, ofertas sin fecha y recurrencias.
+- En el calendario, solo fechas concretas documentadas.
+- No inventar horarios, precios, opiniones, instituciones ni contactos.
+- Conservar el año original de cada fuente; si se deduce, decir cómo.
+- La fecha de rastreo del buscador no prueba vigencia.
+- `data-keywords` solo lleva términos positivos y comprobados. «Gratis» solo con fuente vigente.
+- Los precios son de público general, en número, con estado (vigente o histórico) y unidad. Si no hay precio, se omite: nunca es cero.
+- Los hallazgos de otras herramientas (Codex, Gemini u otras) se documentan con su alcance. Si no se pudieron contrastar, se tratan como candidatos.
 
-## Entrega esperada de Claude Code
-Un documento `CLAUDE_AUDIT_RESULTS.md` con: fecha, entorno usado, pruebas realmente ejecutadas, P0/P1/P2, capturas o pasos de reproducción, cambios sugeridos, fuentes verificadas y `GO / NO-GO` condicionado. Si no pudo ejecutar una prueba, indicar `NOT TESTED`, nunca `PASS`.
+Las fechas se revisaron al 31 de octubre de 2026, zona America/Santiago. Si trabajas después, revalida antes de recomendarlas como próximas. Mustakis terminó su programa en 2024; Cuentanietos Vitacura es de 2024. Casa Contada usa contacto@casacontada.com y dicta online.
+
+## Método de trabajo
+1. Lee README.md, INVESTIGACION.md, REVISION.md y CHANGELOG.md.
+2. Si la tarea es auditar, mantén los archivos intactos y entrega hallazgos con evidencia y prioridad. Si la tarea autoriza correcciones, impleméntalas sin confirmaciones rutinarias.
+3. Respeta el diseño existente y los cambios ajenos. Prefiere correcciones pequeñas y mantenibles.
+4. Después de modificar, ejecuta `node --check assets/app.js`, `python3 tools/build_standalone.py` y `python3 tests/smoke.py`.
+5. Revisa móvil y escritorio si tienes navegador. Si no, informa esa limitación. No atribuyas pruebas a una herramienta que no ejecutaste.
+6. No publiques, no hagas push ni crees commits salvo instrucción expresa: el usuario se encarga de GitHub.
+
+## Desarrollo local
+Puedes abrir index.html directamente: no usa fetch para cargar contenido. Para un servidor local, si está autorizado en tu entorno:
+
+```sh
+python3 -m http.server 8775 --bind 127.0.0.1
+```
+
+La web usa rutas relativas para funcionar bajo un subdirectorio de GitHub Pages. No sustituirlas por rutas absolutas desde `/`.
+
+## Entrega
+Resume cambios y hallazgos, comprobaciones realmente ejecutadas, límites y pendientes. Usa PASS / FAIL / NOT TESTED con evidencia. No declares cumplimiento exhaustivo de accesibilidad o seguridad por una inspección parcial.
